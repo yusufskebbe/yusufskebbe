@@ -1,4 +1,4 @@
-### Hello everybody 👋
+### Hello everyone 👋
 
 
 
