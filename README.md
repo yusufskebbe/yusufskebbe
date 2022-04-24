@@ -8,3 +8,5 @@
 - 📫 How to reach me: ... kebbeyusuf@gmail.com
 - ⚡ Fun fact: ... Music Creator
 
+NOTE: There are private repositories aslo, if you are curious about them, send me your username and I will give access to them 
+
