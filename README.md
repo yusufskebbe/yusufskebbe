@@ -8,8 +8,8 @@ I am a web developer and designer from Istanbul, most of my projects done with j
 
 * 🌍  I'm based in ISTANBUL
 * ✉️  You can contact me at [kebbeyusuf@gmail.com](mailto:kebbeyusuf@gmail.com)
-* 🧠  I'm learning React | Next.js
-* 🤝  I'm open to collaborating on OS Projects
+* 🧠  On going: learning Advanced React & Next.js
+* 🤝  open to collaborating on OS Projects
 * ⚡  Fun Facts: Content Creator | Marketing
 * Portfolio on building keep up
 
