@@ -11,7 +11,7 @@ I am a web developer and designer from Istanbul, most of my projects done with j
 * 🧠  Ongoing: learning Advanced React & Next.js
 * 🤝  open to collaborating on OS Projects
 * ⚡  Fun Facts: Content Creator | Marketing
-* Portfolio on building.
+* Portfolio ongoing
 
 ### Skills
 
