@@ -10,7 +10,7 @@ I am a web developer and designer from Istanbul, most of my projects done with j
 * ✉️  You can contact me at [kebbeyusuf@gmail.com](mailto:kebbeyusuf@gmail.com)
 * 🧠  Ongoing: learning Advanced React & Next.js
 * 🤝  open to collaborating on OS Projects
-* ⚡  Fun Facts: Content Creator | Marketing
+* ⚡  Fun Facts: more than 5 instruments to play
 * Feel free to check my portfolio https://chipper-pastelito-b7350f.netlify.app/
 
 ### Skills
